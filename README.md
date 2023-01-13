@@ -16,5 +16,9 @@ I am also an ACMer learning algorithm.
 - Coding
 - Anime
 
+## My project
+
+[![RobotVision](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=RobotVision)](https://github.com/dgsyrc/RobotVision)
+
 ## 📫 Contact
 - Mail: yrcminecraft@foxmail.com
