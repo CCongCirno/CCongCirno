@@ -18,7 +18,7 @@ I am also an ACMer learning algorithm.
 
 ## My project
 
-[![RobotVision](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=RobotVision)](https://github.com/dgsyrc/RobotVision)
+[![RobotVision_Sirius](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=RobotVision_Sirius)](https://github.com/dgsyrc/RobotVision_Sirius)
 
 ## 📫 Contact
 - Mail: yrcminecraft@foxmail.com
