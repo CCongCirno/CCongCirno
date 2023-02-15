@@ -10,7 +10,9 @@
 
 My name is C_Cong and I'm a college student studying Electronic Information Science and Technology.
 
-I am also an ACMer learning algorithm.
+I am also an ACMer learning algorithm (also an RMer).
+
+my blog: [here](https://blog.ccongcirno.cn)
 
 ## ❤️ Hobby
 - Coding
