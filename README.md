@@ -22,5 +22,8 @@ my blog: [here](https://blog.ccongcirno.cn)
 
 [![RobotVision_Sirius](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=RobotVision_Sirius)](https://github.com/dgsyrc/RobotVision_Sirius)
 
+[![MiracleVision](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=MiracleVision)](https://github.com/dgsyrc/MiracleVision)
+
+
 ## 📫 Contact
 - Mail: yrcminecraft@foxmail.com
