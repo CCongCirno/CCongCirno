@@ -3,11 +3,13 @@
  
  
  
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dgsyrc&" alt="dgsyrc" /></p>
+ 
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgsyrc&show_icons=true&locale=en&layout=compact" alt="dgsyrc" /></p>
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dgsyrc&layout=compact&hide=html&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5" align="center" alt="GitHub stats" /></p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgsyrc&show_icons=true&locale=en&layout=compact" alt="dgsyrc" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgsyrc&" alt="dgsyrc" /></p>
  
 
 # 👋 Hi there
