@@ -16,13 +16,20 @@
 
 My name is C_Cong and I'm a college student studying Electronic Information Science and Technology.
 
-I am also an ACMer learning algorithm (also an RMer).
+I am also an RMer learning algorithm.
 
 my blog: [here](https://blog.ccongcirno.cn)
 
 ## ❤️ Hobby
 - Coding
 - Anime
+
+## Language
+- C
+- C++
+- C#
+- Java
+- Python
 
 ## My project
 
