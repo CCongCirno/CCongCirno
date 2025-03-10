@@ -37,7 +37,7 @@ my blog: [here](https://blog.ccongcirno.cn)
 
 [![MiracleVision](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=MiracleVision)](https://github.com/dgsyrc/MiracleVision)
 
-[![Analysis-of-Signals-and-Linear-Systems](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=Analysis-of-Signals-and-Linear-Systems)](https://github.com/dgsyrc/Analysis-of-Signals-and-Linear-Systems)
+[![MiracleController](https://github-readme-stats.vercel.app/api/pin/?username=dgsyrc&repo=MiracleController)](https://github.com/dgsyrc/MiracleController)
 
 
 ## 📫 Contact
