@@ -1,15 +1,9 @@
-<h1 align="center">✨ CCongCirno ❤ OpenSource ✨</h1>
+<h1 align="center">CCongCirno</h1>
 
+My name is **CCongCirno** and I’m currently a college student majoring in **Electronic Information Science and Technology**.  
+I used to be an **OIer, ACMer and RMer**.  
+Currently, I’m a member of **PKU AI Lab** at **Peking University**.  
 
----
-
-# 👋 Hi there
-
-My name is **C_Cong** and I’m currently a college student majoring in **Electronic Information Science and Technology**.  
-I’m an **OIer → ACMer (retired)**, now an **RMer**, and also an **individual developer**.  
-Currently, I’m a **member of PKU AI Lab** at **Peking University**.  
-
-I enjoy problem-solving, coding, and creating projects that combine both research and engineering.  
 Check out my blog 👉 [blog.ccongcirno.cn](https://blog.ccongcirno.cn)  
 
 ---
@@ -18,8 +12,8 @@ Check out my blog 👉 [blog.ccongcirno.cn](https://blog.ccongcirno.cn)
 
 - 💻 Coding & Algorithm research  
 - 📺 Anime  
-- 🎮 Minecraft (MC player)  
-- 🎵 Music & Bilibili content ([My Bilibili Space](https://space.bilibili.com/179225431))  
+- 🎮 Minecraft
+- 🎵 Music
 
 ---
 
