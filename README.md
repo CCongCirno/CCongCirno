@@ -1,8 +1,13 @@
 <h1 align="center">CCongCirno</h1>
 
-My name is **CCongCirno** and I’m currently a college student majoring in **Electronic Information Science and Technology**.  
-I used to be an **OIer, ACMer and RMer**.  
-Currently, I’m a member of **PKU AI Lab** at **Peking University**.  
+Hi, I'm **CCongCirno**.
+
+I am currently pursuing a **Master of Electronic Information** and conducting research as a member of **PKU AI Lab** at **Peking University**.
+
+My research interests include **Embodied AI, Robotics, 3D Vision, and Computer Vision**.
+
+Before graduate school, I was actively involved in competitive programming and algorithmic competitions as an **OIer, ACMer, and RMer**, which built a strong foundation in algorithms and software engineering.
+
 
 Check out my blog 👉 [blog.ccongcirno.cn](https://blog.ccongcirno.cn)  
 
